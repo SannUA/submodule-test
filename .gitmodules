@@ -1,0 +1,3 @@
+[submodule "teamWorkSpirit_testProject"]
+	path = teamWorkSpirit_testProject
+	url = git@github.com:SannUA/teamWorkSpirit_testProject.git
